@@ -3,7 +3,6 @@
 ### 文件说明
 * Game_Can_Play：存放Build后的游戏，打开exe文件即可体验游戏。
 * ShenQichuan_Game：存放游戏源代码。
-* Description：游戏内一些截图。
 ### 游戏玩法
 * 左右键控制人物移动
 * 空间键使女孩跳跃
